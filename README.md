@@ -1,1 +1,1 @@
-# Diabetes
+# AI-Based Diabetes Prediction System
